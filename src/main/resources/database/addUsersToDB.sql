@@ -1,0 +1,9 @@
+insert into test.users (id, name, age, admin, cdate) VALUES ('11', 'James3', '19', 0, '2017-03-12 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('12', 'James1', '20', 0, '2017-03-12 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('13', 'Jack', '18', 0, '2017-03-08 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('14', 'Jack', '17', 1, '2017-03-12 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('15', 'Jack2', '16', 0, '2017-03-12 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('16', 'Jack3', '15', 0, '2017-03-12 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('17', 'Jack34', '14', 1, '2017-03-10 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('18', 'Jack5', '13', 0, '2017-03-15 15:55:22');
+insert into test.users (id, name, age, admin, cdate) VALUES ('19', 'Jack77', '12', 0, '2017-03-12 15:55:22');
